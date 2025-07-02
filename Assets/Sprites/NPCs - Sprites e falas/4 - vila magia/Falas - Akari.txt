@@ -1,0 +1,40 @@
+************************************************************************
+**IMPORTANTE**
+************************************************************************
+
+**Se encontrando a primeira vez**------------------------------------------------------------------------
+[Akari]		Você deve ser a Kerolyne, né? O Pipo disse que você viria!
+[Kerolyne]	E você é a Akari? Foi você quem encontrou uma borboleta?
+[Akari]		Sim! A violeta apareceu por aqui e eu fui atrás dela... mas quando tentou subir a montanha, acabou ficando congelada.
+		Tentei de tudo pra descongelar, mas nada funcionou. Acho que é por causa da magia — tá super instável. E o gelo em volta dela tá com uma energia estranha, bem forte.
+[Kerolyne]	Você tem ideia do que fazer? Eu não sei quase nada sobre magia...
+[Akari]		Talvez. Estava pensando em uma Pedra do Fogo. São artefatos antigos e poderosos — talvez forte o bastante pra derreter aquele gelo.
+		Acredito que da pra encontrar alguma na caverna ao sul, depois do rio.
+[Kerolyne]	Mas se a magia tá instável, usar uma dessas pedras não é perigoso?
+[Akari]		Essas pedras são bem antigas, sabe? A magia delas é mais estável. Elas não sofrem com interferencias do ambiente.
+		O problema mesmo é o lugar onde ficam — perto de lava. Aí sim, é bom tomar cuidado.
+		Se encontrar, deve ser uma pedra vermelha, bem perto dessas áreas quentes.
+[Kerolyne]	Entendi, mas se for ajudar eu posso procurar por uma.
+[Akari]		Obrigada mesmo, Kerolyne! Eu até iria com você, mas ainda não entendi direito como usar essas pedras. Vou ficar por aqui tentando descobrir.
+[Kerolyne]	Tudo bem, então deixa comigo.
+[Akari]		Ah! Quando achar a pedra, me encontra na minha casa — é aquela com o enfeite de raposa na porta, você vai ver.
+
+
+**Quando volta com a pedra do foto - na casa da Akari**------------------------------------------------------------------------
+
+[Akari]		Kerolyne! Já voltou?! Uau, isso foi rápido! Conseguiu achar?
+[Kerolyne]	Consegui sim. Aqui está. E você, conseguiu descobrir como usar a magia da pedra?
+[Akari]		Sim! Ela é bem quente, né? Mas de um jeito... bom. Eu li que, se a gente canalizar a energia dela com calma, dá pra liberar o calor aos poucos. Não parece difícil. Quer tentar?
+[Kerolyne]	Hmm... não sei se sou a melhor pessoa pra isso...
+[Akari]		Relaxa, eu vou te ajudar! Segura a pedra com as duas mãos e respira fundo. Sente o calor dela? Agora tenta imaginar esse calor indo até a borboleta.
+
+[Sistema]	**Aperte __ para usar a magia de fogo.
+
+
+**Quando descongela a borboleta**------------------------------------------------------------------------
+[Akari]		Isso aí! Deu certo!
+[Kerolyne]	Uau... isso é incrível! Nunca achei que conseguiria usar magia assim.
+[Akari]		Legal, né? E essa pedra vai te ajudar bastante quando for subir a montanha.
+[Kerolyne]	Subir... a montanha?
+[Akari]		Aham! A gente precisa levar as borboletas de volta pro Santuário das Cores. Eu vou avisar o Pipo que já temos todas — a gente sobe depois. Mas você pode ir na frente!
+[Kerolyne]	Entendi! Então nos vemos lá em cima.

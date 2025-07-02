@@ -1,0 +1,7 @@
+Uma borboleta laranja...Vou segui-la para 
+ver se descubro algo.
+                          **Aperte enter.
+Para passar o próximo dialogo aperte enter
+ou caso queira mostra-lo por completo sem 
+ter que esperar, para me movimentar use 
+WASD ou as setas de movimentação no teclado.

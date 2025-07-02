@@ -1,0 +1,42 @@
+************************************************************************
+**IMPORTANTE**
+************************************************************************
+[Hierba] 	Ei… você saiu pela entrada que entra? Isso... não devia acontecer.
+[Kerolyne]	Ehh... Você sabe pra que lado fica a Vila da Magia? Não sei onde eu tô.
+[Hierba] 	Ela fica... pra lá, mas também um pouco pra dentro… sabe? Quer dizer, não fica aqui. Isso eu sei com certeza.
+[Kerolyne]	Tá, né…
+[Hierba] 	Mas… olha, tem um probleminha. Um labirinto mágico se ativou ali adiante.
+		Ele fica dormindo normalmente, mas acordou do nada e eu fiquei preso aqui. Tava só de boa e... pluft. Magia.
+[Kerolyne]	Labirinto? Eu sou boa com labirintos, posso te ajudar a passar.
+[Hierba] 	Ah, que bom! Tava quase pedindo ajuda pra um cogumelo. Ele parecia confiável, mas não falava muito.
+
+** na frente do labirinto ** -------------------------------------------
+[Hierba] 	Labirinto aqui, cheio de runas no chão... você pisa e plim, elas trocam de cor. É tipo um jogo… só que o prêmio é sair dele.
+[Kerolyne]	Entendi o problema... sem as cores, fica difícil de passar.
+[Hierba] 	Se quiser, posso te dar umas dicas. Ou pelo menos te dar sorte. Tenho um trevo de cinco folhas por aqui… ou era uma lagarta? Enfim, funciona igual.
+
+
+** Depois que sai do baritinto ** -------------------------------------------
+[Hierba] 	Uau… você conseguiu sair. Tipo… mesmo. Sabia que dava pra confiar em você. Quer dizer… quase sabia.
+[Kerolyne]	Agora é só seguir o caminho?
+[Hierba] 	É, é... mas peraí. Você me ajudou, né? Isso merece um presente. Minha casa fica na praia… só seguir o caminho que parece que não vai dar em nada, mas dá sim. Confia.
+[Kerolyne]	Ok...
+
+** Eles andando - Hierba seguindo ou Kerolyne seguindo, num sei**
+[Kerolyne]	Ei… acho que nem perguntei seu nome.
+[Hierba]	Hierba.
+[Kerolyne]	Kerolyne... Você fala com as plantas?
+[Hierba]	Elas começaram primeiro.
+[Kerolyne]	...Claro que começaram.
+
+** Chegando na praia ** -------------------------------------------
+[Hierba]	Chegamos. Espera aí.
+
+** Ele entra em casa e volta com um pacote suspeito**
+
+[Hierba]	Toma. Isso vai te ajudar… de algum jeito, eu acho.
+[Kerolyne]	Isso é o quê?
+[Hierba]	Ela se chama Paz. Ou pelo menos é o nome que ela me contou.
+[Kerolyne]	Obrigada... Então... como eu chego na Vila da Magia?
+[Hierba]	Só seguir o caminho reto que vai pra baixo... ou talvez pra cima. 
+		Mas ó... já que cê tá aqui… dá uma olhada na praia antes. E cuidado com os caranguejos no caminho. Um deles me desafiou pra um duelo semana passada. Longa história.

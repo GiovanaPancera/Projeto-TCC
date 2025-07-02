@@ -1,0 +1,42 @@
+************************************************************************
+**IMPORTANTE**
+************************************************************************
+
+**Saída pra praia**------------------------------------------------------------------------
+[NPC 39 - Marcel]	Temos um probleminha. Na real… um problemão. Esse Cochileco dormiu bem no meio da estrada.
+[NPC 40 - Ashen]	É difícil acordar um Cochileco depois que dorme assim. Isso vai levar tempo…
+
+**entrada da montanha**------------------------------------------------------------------------
+[NPC 41 - Eron]		Fala 1 - Tem uma tempestade forte na montanha. Melhor não subir agora.
+
+Depois que pegar todas as borboletas
+[NPC 41 - Eron]		Fala 2 - Parece que a tempestade passou, mas se for subir a montanha, vá bem agasalhada.
+
+**Perto do lago**------------------------------------------------------------------------
+[NPC 42 - Íris]		Parece estranho, mas juro que vi uma borboleta colorida! Ela foi voando até o meio do lago.
+[Kerolyne]		No meio do lago? Ugh, logo água... eu nem sei nadar. Na verdade, detesto água...
+[NPC 42 - Íris]		Você pode usar as vitórias-régias pra atravessar. As verdes são firmes, mas as azuis afundam. O pior é que agora… não dá pra saber qual é qual.
+
+
+************************************************************************
+**SE DER TEMPO**
+************************************************************************
+
+[NPC 28 - Hugo]		Vim tentar entender por que tudo perdeu a cor, mas... a biblioteca tá fechada.
+[NPC 29 - Clara.R2]	Meus sensores não erram. A magia tá instável desde que as cores sumiram — os fluxos estão desregulados.
+[NPC 30 - Ailana]	Desde que o mundo ficou sem cor, minhas roupas combinam sozinhas. Nunca estive tão estilosa.
+[NPC 31 - Olivia]	A magia ficou estranha depois que as cores sumiram. Não acho que seja fraqueza… parece mais um tipo de descontrole.
+[NPC 32 - Catty]	Desde que as cores sumiram, minha magia tá toda errada… Às vezes nem funciona, às vezes é forte demais.
+[NPC 33 - Solt-19]	Registro arcano nº248: Magia precisa de equilíbrio. Sem isso, mesmo a energia mais pura pode ficar... imprevisível.
+------------------------------------------------------------------------
+[NPC 34 - Mia]		Me pediram um bolo arco-íris... mas como, sem cor?
+[NPC 35 - Vito]		edi um bolo arco-íris. Talvez não tenha sido o melhor momento...
+------------------------------------------------------------------------
+[NPC 36 - Rubi]		Até que não tá tão ruim… me sinto num filme do século XIX.
+[NPC 37 - Lunara]	Ouvi que em alguns lugares a magia tá instável. Melhor ficar atento.
+[NPC 38 - Lavena]	Li num livro uma vez sobre um santuário no topo da montanha, mas acho que ninguém vai lá há muito tempo.
+
+
+
+
+

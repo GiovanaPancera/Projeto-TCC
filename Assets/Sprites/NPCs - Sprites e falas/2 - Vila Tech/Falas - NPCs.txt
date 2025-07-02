@@ -1,0 +1,42 @@
+************************************************************************
+**IMPORTANTE**
+************************************************************************
+
+[NPC 11 - G1GA]		Tive que fechar a loja... Eu organizava tudo pelas cores. Agora? Não faço ideia do que é o quê.
+[NPC 21 - Maru]		Oi! Sem fornada por enquanto, mas fica à vontade, tá?
+[NPC 26 - Zeta-4]	Você não pode entrar, o estamos fechados por hoje.
+
+
+************************************************************************
+**SE DER TEMPO**
+************************************************************************
+
+[NPC 10 - TECHa]	Antes eu tinha uma tela com 16 milhões de cores... agora só 256 tons de cinza. Pelo menos roda mais rápido... acho. Mas não vale a pena, né?
+[NPC 12 - Cromo]	Juro que só queria baixar um jogo novo... aí puf! Tudo ficou cinza. Foi minha culpa? Eu sabia que não devia mexer nas configurações...
+[NPC 13 - Mochi]	Tá difícil saber quem é quem agora... todos os robôs tão parecendo iguais.
+[NPC 14 - Sr.Danor]	Viver com tantos robôs não é fácil. Eles falam umas coisas que eu não entendo...
+------------------------------------------------------------------------
+[NPC 15 - A.L.V.A]	Falei pra não baixar nada daquele fórum esquisito! Aposto que foi isso!
+[NPC 16 - Dri-Tek]	Só testei um software novo, dizia que deixava as cores melhores! E agora? Será que estraguei tudo?
+------------------------------------------------------------------------
+[NPC 17 - V1-V4]	Isso não parece erro de sistema... Se eu tivesse que chutar, diria que tem magia no meio. 
+
+[NPC 18 - Oxi-44]	Não consigo escolher entre #B8B8B8 e #B9B9B9... são quase iguais, mas o #B8B8B8 é tipo... um tiquinho mais claro, né? O que você acha?
+			(Opções para escolher: 1 - #B8B8B8 -- 2 -#B9B9B9)
+
+[Kerolyne]		#B8B8B8
+[NPC 18 - Oxi-44]	Aí sim! Sabia que era o melhor.
+
+[Kerolyne]		#B9B9B9
+[NPC 18 - Oxi-44]	Olha… justo. Tem seu charme mesmo.
+------------------------------------------------------------------------
+[NPC 19 - Krin]		Eu sempre amei o #FF5733... aquele laranja perfeito. Agora? Só #808080. Se eu fosse humano, diria que estou tendo uma crise de identidade.
+[NPC 20 - Zeph-R]	Acabei de me mudar pra cá, vai ser difícil fazer a decoração da casa sem saber as cores.
+[NPC 22 - Touran]	Essa é a única padaria da vila... na real, é o único lugar com comida por aqui.
+[NPC 23 - Cael]		Você também notou? Tá tudo tão sem vida... agora todo lugar parece igual.
+[NPC 24 - YV-3]		Cinza? Pra mim é tudo igual, meu sistema nem reconhece cor mesmo.
+[NPC 25 - Bitko]	Analisando... cores ausentes... erro encontrado. Reset... não... funciona... Bzzzzt. Talvez uma atualização ajude? Verificando...
+
+
+
+

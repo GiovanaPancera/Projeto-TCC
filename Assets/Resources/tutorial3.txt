@@ -1,0 +1,5 @@
+Estamos em um ambiente de plataforma, 
+você se movimenta apenas na horizontal
+ou pula quando aperta "espaço". 
+Vale lembrar que gatos pulam mais
+alto que humanos.

@@ -1,0 +1,34 @@
+************************************************************************
+**IMPORTANTE**
+************************************************************************
+(Início do jogo, quando aparece a borboleta laranja)
+[Kerolyne]		Uma borboleta laranja...
+			**Aperte __.
+
+(Quando chega perto do tronco)
+[sistema] 		**Aperte __ para transformar.
+(quando for o sistema falando, aparece só a caixa com o texto, sem foto de personagem e sem falar que é o sistema falando)
+
+(na casa dela, pra entrar, ou para interagir algo - pensei em aparecer na moto)
+[sistema]		**Aperte __ para interagir.
+
+[NPC 1 - Noeli]		Kerolyne! Você sabe o que aconteceu? As cores sumiram de repente! Uma hora estava tudo normal, na outra... puff!
+[Kerolyne]		Eu também não sei... Mas vou tantar descobrir.
+------------------------------------------------------------------------
+[Kerolyne]		Ei Brunie! Você viu uma borboleta laranja passando por aqui?
+[NPC 3 - Brunie]	Borboleta laranja? Nem vi nada, tô tentando entender o que rolou… foi tipo um click, e pronto, o mundo desbotou.
+------------------------------------------------------------------------
+[NPC 4 - Sr. Dimas] 	A Luci adora flor amarela... Vim pegar algumas pra ela, mas será que essas aqui são amarelas?
+[NPC 5 - Lia] 		As amarelas estavam aqui… ou ali? Com tudo cinza assim, tá impossível achar qualquer coisa!
+------------------------------------------------------------------------
+[Kerolyne]		Oi Emi, você sabe o que pode ter acontecido?
+[NPC 9 - Emília] 	E aí Kero! Isso aí tem cara de feitiço! Aposto que foi coisa daquela gente da Vila da Magia. Vivem fuçando coisa que não deviam.
+
+************************************************************************
+**SE DER TEMPO**
+************************************************************************
+
+[NPC 2 - Sra. Lucena] 	Eu tava regando as plantas, aí pisquei e… tudo cinza. Achei que fosse minhas vistas, mas não… tá tudo estranho.
+[NPC 6 - Sora] 		Eu vi uma luz forte lá no alto da montanha, um clarão! E aí, foi questão de segundos… pá, tudo cinza. 
+[NPC 7 - Airo] 		Tá tudo meio apagado… parece sonho ruim. Cê acha que vai voltar ao normal?
+[NPC 8 - Paindy] 	Ah, Kerolyne… essa ponte aí já tá quebrada faz um tempão, viu? Ninguém nunca veio arrumar. Se quiser ir pra Vila da Magia, vai ter que pegar a do sul. Meio longe, mas pelo menos tá inteira.
