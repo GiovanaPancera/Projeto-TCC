@@ -1,0 +1,153 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Map-Full.tmx",
+    "expandedProjectPaths": [
+        "Fase 1",
+        "."
+    ],
+    "exportAsImage.drawTileGrid": true,
+    "file.lastUsedOpenFilter": "Todos os Ficheiros (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "../Mapa/Mapa novo/Mapa certo eu espero B.tmx": {
+            "expandedGroupLayers": [
+                23
+            ],
+            "scale": 0.25,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 6372,
+                "y": 5532
+            }
+        },
+        "../Mapa/Mapa novo/Mapa certo eu espero.tmx": {
+            "scale": 0.0625,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 8272,
+                "y": 6016
+            }
+        },
+        "../Mapa/Mapa novo/TileMap_level-1-Big-tree.tsx": {
+            "scaleInDock": 1
+        },
+        "../Mapa/Mapa novo/TileMap_level-1-Small-tree.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "../Mapa/Mapa novo/TileMap_level-1-basic.tsx": {
+            "scaleInDock": 1
+        },
+        "../Mapa/Mapa novo/TileMap_level-1-bulding.tsx": {
+            "scaleInDock": 1
+        },
+        "../Mapa/Mapa novo/TileMap_level-1-water.tsx": {
+            "scaleInDock": 0.75
+        },
+        "../Mapa/Mapa novo/cores base.tsx": {
+            "scaleInDock": 0.5
+        },
+        "Fase 1/Pontes.tsx": {
+            "scaleInEditor": 1
+        },
+        "Fase 1/TileMap_Fase-1-Casas.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "Fase 1/TileMap_Fase-1-CasasTech.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Fase 1/TileMap_Fase-1-Diversos.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Fase 1/TileMap_Fase-1-Moto.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Fase 1/TileMap_Fase-1-VilaTech.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Fase 1/TileMap_Fase-1-arvore-grande.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Fase 1/TileMap_Fase-1-arvore-pequena.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "Fase 1/TileMap_Fase-1-chao.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Fase 1/TileMap_Fase-1-moveis.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Fase 1/TileMap_Fase1-Diversos.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Fase 1/TileMapa_Agua-1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Fase 1/Varios].tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "Map-Full.tmx": {
+            "scale": 0.125,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 8652,
+                "y": 7680
+            }
+        },
+        "TileMap_Fase-1-arvore-grande.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/hiine/Downloads/TCC/Map/Fase 1",
+    "last.imagePath": "C:/Users/hiine/Downloads/TCC/Map/Fase 1",
+    "map.height": 350,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 350,
+    "openFiles": [
+        "Map-Full.tmx",
+        "Fase 1/Varios].tsx"
+    ],
+    "project": "Map-top-down.tiled-project",
+    "recentFiles": [
+        "Fase 1/TileMap_Fase-1-Diversos.tsx",
+        "Fase 1/TileMap_Fase1-Diversos.tsx",
+        "Fase 1/Varios].tsx",
+        "Fase 1/Pontes.tsx",
+        "Fase 1/TileMap_Fase-1-Casas.tsx",
+        "Map-Full.tmx",
+        "Fase 1/TileMap_Fase-1-VilaTech.tsx",
+        "Fase 1/TileMap_Fase-1-CasasTech.tsx",
+        "Fase 1/TileMap_Fase-1-chao.tsx",
+        "Fase 1/TileMap_Fase-1-moveis.tsx",
+        "Fase 1/TileMap_Fase-1-Moto.tsx",
+        "Fase 1/TileMapa_Agua-1.tsx"
+    ],
+    "tileset.lastUsedFilter": "Ficheiros de conjunto de tiles Tiled (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 160,
+        "width": 715
+    },
+    "tileset.useTransparentColor": true
+}

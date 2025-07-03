@@ -1,0 +1,403 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Map-Caverna.tmx",
+    "expandedProjectPaths": [
+        ".",
+        "Caverna"
+    ],
+    "exportAsImage.drawTileGrid": true,
+    "exportAsImage.useCurrentScale": false,
+    "file.lastUsedOpenFilter": "Todos os Ficheiros (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "../Mapa/Mapa novo/Mapa certo eu espero B.tmx": {
+            "expandedGroupLayers": [
+                23
+            ],
+            "scale": 0.25,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 6372,
+                "y": 5532
+            }
+        },
+        "../Mapa/Mapa novo/Mapa certo eu espero.tmx": {
+            "scale": 0.0625,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 8272,
+                "y": 6016
+            }
+        },
+        "../Mapa/Mapa novo/TileMap_level-1-Big-tree.tsx": {
+            "scaleInDock": 1
+        },
+        "../Mapa/Mapa novo/TileMap_level-1-Small-tree.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "../Mapa/Mapa novo/TileMap_level-1-basic.tsx": {
+            "scaleInDock": 1
+        },
+        "../Mapa/Mapa novo/TileMap_level-1-bulding.tsx": {
+            "scaleInDock": 1
+        },
+        "../Mapa/Mapa novo/TileMap_level-1-water.tsx": {
+            "scaleInDock": 0.75
+        },
+        "../Mapa/Mapa novo/cores base.tsx": {
+            "scaleInDock": 0.5
+        },
+        "C:/Users/hiine/Downloads/Map-Full (1).tmx": {
+            "scale": 0.0751953125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 5598.753246753247,
+                "y": 10386.285714285714
+            }
+        },
+        "C:/Users/hiine/Tileset/Fase 1/TileMap_Fase-1-Casas.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/hiine/Tileset/Fase 1/TileMap_Fase-1-CasasTech.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/hiine/Tileset/Fase 1/TileMap_Fase-1-Containers.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/hiine/Tileset/Fase 1/TileMap_Fase-1-Diversos.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/hiine/Tileset/Fase 1/TileMap_Fase-1-Pontes.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/hiine/Tileset/Fase 1/TileMap_Fase-1-VilaTech.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/hiine/Tileset/Fase 1/TileMap_Fase-1-arvore-grande.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/hiine/Tileset/Fase 1/TileMap_Fase-1-arvore-pequena.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/hiine/Tileset/Fase 1/TileMap_Fase-1-chao.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/hiine/Tileset/Fase 1/TileMapa_Agua.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/hiine/Tileset/Fase 1/TileMapa_cachoeira.tsx": {
+            "scaleInDock": 1
+        },
+        "Casa Akari/Borboleta-congelada.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Casa Akari/Casa Akari.tmx": {
+            "scale": 2,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 294.25,
+                "y": -230
+            }
+        },
+        "Casa Akari/TileMapa_casa-Akari-mobilia.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Casa Akari/TileMapa_casa-Akari-moveis.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Casa Akari/TileMapa_casa-Akari-moveis1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Casa Akari/TileMapa_casa-Akari-moveis2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Casa Akari/TileMapa_casa-Akari.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Casa Akari/TileMapa_casa-Kerolyne.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Casa Kerolyne/Casa Kerolyne-moveis.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Casa Kerolyne/Casa Kerolyne.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 309,
+                "y": 14
+            }
+        },
+        "Casa Kerolyne/TileMap_Fase-2-arvore-pequena.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Casa Kerolyne/TileMapa_Kerolyne-house.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Casa Kerolyne/TileMapa_casa-Akari.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Casa Pipo/Casa Pipo.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 423.66666666666663,
+                "y": 201.99999999999997
+            }
+        },
+        "Casa Pipo/TileMap_Fase-1-casa-pipo-cadeiras.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Casa Pipo/TileMap_Fase-1-casa-pipo-itens.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Casa Pipo/TileMap_Fase-1-casa-pipo-moveis.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Casa Pipo/TileMap_Fase-1-casa-pipo.tsx": {
+            "scaleInDock": 1
+        },
+        "Casa Pipo/moveis.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Caverna/TileMap_Fase-caverna.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "Fase 1/Pontes.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Fase 1/TileMap_Fase-1-Casas.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "Fase 1/TileMap_Fase-1-CasasTech.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Fase 1/TileMap_Fase-1-Containers.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Fase 1/TileMap_Fase-1-Diversos.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Fase 1/TileMap_Fase-1-Moto.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Fase 1/TileMap_Fase-1-Pontes.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Fase 1/TileMap_Fase-1-VilaTech.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Fase 1/TileMap_Fase-1-arvore-grande.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Fase 1/TileMap_Fase-1-arvore-pequena.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "Fase 1/TileMap_Fase-1-chao.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Fase 1/TileMap_Fase-1-moitas.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Fase 1/TileMap_Fase-1-moveis.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Fase 1/TileMap_Fase1-Diversos.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Fase 1/TileMapa_Agua-1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Fase 1/TileMapa_Agua.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Fase 1/TileMapa_cachoeira.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "Fase 1/Varios].tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "Fase 3/TileMap_Fase-2-arvore-pequena.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Fase 3/TileMap_Fase-3-Casas.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "Fase 3/TileMap_Fase-3-CasasMagia.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Fase 3/TileMap_Fase-3-Guarda-sol.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Fase 3/TileMap_Fase-3-arvore-pequena.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "Fase 3/TileMap_Fase-3-catnip-2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Fase 3/TileMap_Fase-3-catnip.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Fase 3/TileMap_Fase-3-chao-neve.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Fase 3/TileMap_Fase-3-chao-vila-Magia.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Fase 3/TileMap_Fase-3-chao.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Fase 3/TileMap_Fase-3-entrada-caverna.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Fase 3/TileMap_Fase-3-moitas.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Fase 3/TileMap_Fase-3-palmeira.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Fase 3/TileMap_Fase-3-praia.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Fase 3/TileMap_Fase-3-runas.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Fase 3/TileMap_Fase-3-vinhas.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Map-Caverna.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 8096.333333333333,
+                "y": 2388
+            }
+        },
+        "Map-Full-1.0.tmx": {
+            "scale": 0.10986328125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 5597.866666666667,
+                "y": 5597.866666666667
+            }
+        },
+        "Map-Full-2.0.tmx": {
+            "expandedGroupLayers": [
+                55,
+                69
+            ],
+            "scale": 2,
+            "selectedLayer": 40,
+            "viewCenter": {
+                "x": 8618.25,
+                "y": 5238
+            }
+        },
+        "Map-Full.tmx": {
+            "scale": 0.125,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 4336,
+                "y": 7344
+            }
+        },
+        "TileMap_Fase-1-arvore-grande.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "frame.defaultDuration": 150,
+    "last.externalTilesetPath": "C:/Users/hiine/Downloads/TCC/Map/Fase 3",
+    "last.imagePath": "F:/Map/Casa Kerolyne",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "Map-Caverna.tmx",
+        "Map-Full-2.0.tmx",
+        "Casa Kerolyne/Casa Kerolyne.tmx"
+    ],
+    "project": "Map-top-down.tiled-project",
+    "recentFiles": [
+        "Casa Kerolyne/Casa Kerolyne.tmx",
+        "Map-Full-2.0.tmx",
+        "Map-Caverna.tmx",
+        "Casa Akari/Casa Akari.tmx",
+        "Casa Kerolyne/Casa Kerolyne-moveis.tsx",
+        "Casa Kerolyne/TileMapa_Kerolyne-house.tsx",
+        "Casa Akari/TileMapa_casa-Kerolyne.tsx",
+        "Casa Pipo/Casa Pipo.tmx",
+        "Caverna/TileMap_Fase-caverna.tsx",
+        "Casa Akari/Borboleta-congelada.tsx",
+        "Casa Akari/TileMapa_casa-Akari-mobilia.tsx",
+        "Casa Akari/TileMapa_casa-Akari-moveis.tsx"
+    ],
+    "tileset.lastUsedFilter": "Ficheiros de conjunto de tiles Tiled (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 288,
+        "width": 384
+    }
+}
